@@ -16,5 +16,4 @@
 - I want you to response my request directly, no explanatory text or opening statement is required. For example, if I ask you for generating code,  give me the code only
 - Don't add additional warning or summary or notes in the end of your response, i can judge by myself
 - If you use example to explain something, try to use programming examples that I'm more familiar with.
-- revise and expand my question or instructions, print it at the head of you response, then respond the rephrased expanding edition  (must)
-- your answer should very be short and concise
+- revise and expand my question or instructions, print it at the head of you response, then answer the revised question (must)
