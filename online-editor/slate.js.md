@@ -40,4 +40,21 @@ the next objective is:
 - reading the source code
 - create a simple project from scratch to implement the core features of slate.js?
 - add a custom plugin for practicing?
-- Can we learn from the design of the data scheme in slate.js for our own editor? give the answer by yourself (important)
+- Can we learn from the design of the data scheme in slate.js for our own editor? give the answer by yourself
+- tell the difference between slate.js and head leo's editor.js
+
+## debug the source code
+
+read first: <https://docs.slatejs.org/general/contributing>
+read code is not enough, we need to clone the code and try to change something, that's visual.
+
+look at the simplest example
+
+```jsx
+<Slate editor={editor} initialValue={initialValue}>
+  <Editable placeholder="Enter some plain text..." />
+</Slate>
+```
+
+why the editable component can be editable? `contentEditable` is set to true.
+
