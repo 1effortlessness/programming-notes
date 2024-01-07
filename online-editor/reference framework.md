@@ -10,6 +10,7 @@ based on the requirements, I need to understand the technical implementations pr
 - editable.js
 - prosemirror.js
 - plate.js
+- wantEditor.js
 
 ## my objectives
 

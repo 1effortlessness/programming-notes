@@ -3,9 +3,8 @@
 ## preface
 
 question1: what happen after you press a key?
-question2: how to support collaboration?
-question3: what's the principles behind the plugins design?
-question4: how to handle Chinese input method and emoji input? check `editor.js`
+question2: what's the principles behind the plugins design?
+question3: how to handle Chinese input method and emoji input? check `editor.js`
 
 ## what happen after you press a key?
 
@@ -24,8 +23,8 @@ first: **onDOMBeforeInput**
 2. handle dom selection event, update editor status
 
 ```tsx
-scheduleOnDOMSelectionChange.flush()
-onDOMSelectionChange.flush()
+scheduleOnDOMSelectionChange.flush();
+onDOMSelectionChange.flush();
 ```
 
 what the code do?
@@ -38,14 +37,14 @@ what the code do?
 3. handle different insert type event && update editor status
 
 ```tsx
-        const isCompositionChange =
-          type === 'insertCompositionText' || type === 'deleteCompositionText'
+const isCompositionChange =
+  type === "insertCompositionText" || type === "deleteCompositionText";
 
-        // COMPAT: use composition change events as a hint to where we should insert
-        // composition text if we aren't composing to work around https://github.com/ianstormtaylor/slate/issues/5038
-        if (isCompositionChange && ReactEditor.isComposing(editor)) {
-          return
-        }
+// COMPAT: use composition change events as a hint to where we should insert
+// composition text if we aren't composing to work around https://github.com/ianstormtaylor/slate/issues/5038
+if (isCompositionChange && ReactEditor.isComposing(editor)) {
+  return;
+}
 ```
 
 take notes, the situation of composing is handled specially on onComposition events.
@@ -57,27 +56,27 @@ it's just the simple scenario that user press a key such as 'e', the inputType i
 call the function `editor.insertText()` to insert the text.
 
 ```tsx
-export const insertText: EditorInterface['insertText'] = (
+export const insertText: EditorInterface["insertText"] = (
   editor,
   text,
   options = {}
 ) => {
-  const { selection, marks } = editor
+  const { selection, marks } = editor;
 
   if (selection) {
     if (marks) {
-      const node = { text, ...marks }
+      const node = { text, ...marks };
       Transforms.insertNodes(editor, node, {
         at: options.at,
         voids: options.voids,
-      })
+      });
     } else {
-      Transforms.insertText(editor, text, options)
+      Transforms.insertText(editor, text, options);
     }
 
-    editor.marks = null
+    editor.marks = null;
   }
-}
+};
 ```
 
 [it's import to understand the concepts of locations in slate.js](https://docs.slatejs.org/concepts/03-locations)
@@ -91,8 +90,8 @@ external knowledge:
 the core function: apply.
 
 ```ts
-Transforms.transform(editor, op) // do the actual operation
-editor.operations.push(op) // push the operation to the operation stack
+Transforms.transform(editor, op); // do the actual operation
+editor.operations.push(op); // push the operation to the operation stack
 ```
 
 the code of inserting text
@@ -143,3 +142,38 @@ then element component will render the children of the element node recursively.
 onChange / onSelectionChange / onValueChange are what we need to care about.
 
 every time the editor call `apply`, it will call the onChange function which will trigger the listener functions above.
+
+## withHistory
+
+This is an official plugin of slate.js, used for handling undo/redo operations. Study it to understand the principles of plugin development.
+
+```tsx
+const [editor] = useState(() => withReact(withHistory(createEditor())));
+```
+
+the code is easy and small, and we can learn from it about some takeaways.
+
+- withHistory is the function that register the functionality of undo/redo to the editor instance, it's pure js.
+- HistoryEditor, is the editor instance that has the undo/redo functionality.
+- in principle, it's a chain of callback functions (apply)
+- History, helper functions
+
+## how to handle Chinese input method and emoji input?
+
+condition check on onbeforeinput. `const isCompositionChange =
+          type === 'insertCompositionText' || type === 'deleteCompositionText'`
+
+The content is inserted into the editor when the `onCompositionEnd` event is being monitored.
+
+```tsx
+if (placeholderMarks !== undefined) {
+  EDITOR_TO_USER_MARKS.set(editor, editor.marks);
+  editor.marks = placeholderMarks;
+}
+
+Editor.insertText(editor, event.data);
+```
+
+`selection` is used to get the current position of caret usually.
+
+`onCompositionStart` is used to handle the position of caret when user is inputting Chinese characters.
