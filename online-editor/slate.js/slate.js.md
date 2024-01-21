@@ -58,3 +58,29 @@ look at the simplest example
 
 why the editable component can be editable? `contentEditable` is set to true.
 
+## concepts about slate
+
+### normalizing
+
+what it is?
+for uniforming data structure
+it has some basic rules, like: all element nodes must contain at least one text node child; inline nodes cannot be the first or last child of a parent block.
+
+[link](https://docs.slatejs.org/concepts/11-normalizing)
+
+for better understanding of what the doc said. reader have to understand block & inline node.
+
+`editor.isInline` decides whether a node is inline or not. (it's a function to handle all the nodes)
+
+`normalizedNode` is a function to add custom constraints to the node.
+it looks like a tube, all the nodes will go through it, and the nodes will be changed according to the rules. like a title node can not be deleted, it must occupy the first line of the editor.
+
+> great idea design!
+
+`Multi-pass Normalizing` is a little obscure, marked and back to it later.
+
+Remember that every element, even if it's empty, has at least one child. Slate will check and add an empty text node to the children before doing any normalizing.
+
+normalizing seems like a validation for each node, but you have to add an operation for the invalid node.
+
+**recursively render elements**
