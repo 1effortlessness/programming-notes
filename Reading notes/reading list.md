@@ -20,3 +20,9 @@ Initially, this means they're increasingly busy until eventually, the pressure b
 - url: https://javascript.plainenglish.io/nestjs-roadmap-for-beginners-4fee5be251b
 - title: NestJS Roadmap for Beginners
 - note: the article show me a overview introduction about Nest.js, every points or core features can be continued in detail. there is a [simple example that use the basic concepts](https://www.presidio.com/getting-started-with-nestjs/)
+
+---
+
+- url: https://blog.bitipcman.com/bedrock-claude-getting-started/
+- title: Amazon Bedrock 与多模态大语言模型Anthropic Claude 开箱 (上篇)
+- note: how to deploy Claude apis in aws bedrock
