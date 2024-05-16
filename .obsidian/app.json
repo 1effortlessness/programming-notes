@@ -1,0 +1,9 @@
+{
+  "promptDelete": false,
+  "userIgnoreFilters": [
+    "assets/"
+  ],
+  "vimMode": false,
+  "attachmentFolderPath": "assets",
+  "newFileLocation": "current"
+}

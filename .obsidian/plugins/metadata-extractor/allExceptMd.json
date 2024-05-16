@@ -1,0 +1,109 @@
+{
+  "folders": [
+    {
+      "name": "",
+      "relativePath": "/"
+    },
+    {
+      "name": "Document writing",
+      "relativePath": "Document writing"
+    },
+    {
+      "name": "Inbox 📥",
+      "relativePath": "Inbox 📥"
+    },
+    {
+      "name": "Reading notes",
+      "relativePath": "Reading notes"
+    },
+    {
+      "name": "Working notes",
+      "relativePath": "Working notes"
+    },
+    {
+      "name": "assets",
+      "relativePath": "assets"
+    },
+    {
+      "name": "gpt instructions",
+      "relativePath": "gpt instructions"
+    },
+    {
+      "name": "knowledge snippets",
+      "relativePath": "knowledge snippets"
+    },
+    {
+      "name": "learn from the greater programmers",
+      "relativePath": "learn from the greater programmers"
+    },
+    {
+      "name": "whiteboard",
+      "relativePath": "whiteboard"
+    },
+    {
+      "name": "Software engineering",
+      "relativePath": "Document writing/Software engineering"
+    },
+    {
+      "name": "understanding the digital world",
+      "relativePath": "Reading notes/understanding the digital world"
+    },
+    {
+      "name": "VPN",
+      "relativePath": "knowledge snippets/VPN"
+    },
+    {
+      "name": "mongodb",
+      "relativePath": "knowledge snippets/mongodb"
+    },
+    {
+      "name": "online-editor",
+      "relativePath": "knowledge snippets/online-editor"
+    },
+    {
+      "name": "rxjs",
+      "relativePath": "knowledge snippets/rxjs"
+    },
+    {
+      "name": "slate.js",
+      "relativePath": "knowledge snippets/online-editor/slate.js"
+    }
+  ],
+  "nonMdFiles": [
+    {
+      "name": "script.js",
+      "basename": "script",
+      "relativePath": "Inbox 📥/script.js"
+    },
+    {
+      "name": "1511713348918_.pic.jpg",
+      "basename": "1511713348918_.pic",
+      "relativePath": "assets/1511713348918_.pic.jpg"
+    },
+    {
+      "name": "61a4f59624c113e70d8d32bbb84554c6.jpg",
+      "basename": "61a4f59624c113e70d8d32bbb84554c6",
+      "relativePath": "assets/61a4f59624c113e70d8d32bbb84554c6.jpg"
+    },
+    {
+      "name": "Pasted Image 20240424160119_719.png",
+      "basename": "Pasted Image 20240424160119_719",
+      "relativePath": "assets/Pasted Image 20240424160119_719.png"
+    },
+    {
+      "name": "Pasted image 20240417212252.png",
+      "basename": "Pasted image 20240417212252",
+      "relativePath": "assets/Pasted image 20240417212252.png"
+    },
+    {
+      "name": "general format of an http request message.png",
+      "basename": "general format of an http request message",
+      "relativePath": "assets/general format of an http request message.png"
+    },
+    {
+      "name": "slate.js.js",
+      "basename": "slate.js",
+      "relativePath": "knowledge snippets/online-editor/slate.js/slate.js.js"
+    }
+  ]
+}
