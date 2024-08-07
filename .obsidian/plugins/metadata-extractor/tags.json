@@ -1,13 +1,43 @@
 [
   {
     "tag": "excalidraw",
-    "tagCount": 5,
+    "tagCount": 6,
     "relativePaths": [
+      "whiteboard/Drawing 2024-06-26 22.08.07.excalidraw.md",
+      "whiteboard/Drawing 2024-08-01 13.36.53.excalidraw.md",
+      "whiteboard/Drawing 2024-05-17 14.37.43.excalidraw.md",
       "whiteboard/Drawing 2024-04-15 11.14.59.excalidraw.md",
-      "knowledge snippets/mongodb/Drawing 2024-04-18 23.09.14.excalidraw.md",
       "Working notes/KNLG-983.md",
-      "Working notes/Drawing 2024-04-24 16.01.04.excalidraw.md",
-      "Reading notes/understanding the digital world/Drawing 2024-04-22 20.30.14.excalidraw.md"
+      "Working notes/Drawing 2024-04-24 16.01.04.excalidraw.md"
+    ]
+  },
+  {
+    "tag": "自我提升",
+    "tagCount": 2,
+    "relativePaths": [
+      "Reading notes/How to quickly get out of a rut.md",
+      "Reading notes/How smartphones shrink our brains.md"
+    ]
+  },
+  {
+    "tag": "language",
+    "tagCount": 1,
+    "relativePaths": [
+      "Reading notes/Creating bilingual minds.md"
+    ]
+  },
+  {
+    "tag": "english-learning",
+    "tagCount": 1,
+    "relativePaths": [
+      "Reading notes/Creating bilingual minds.md"
+    ]
+  },
+  {
+    "tag": "拖延症",
+    "tagCount": 1,
+    "relativePaths": [
+      "Reading notes/How smartphones shrink our brains.md"
     ]
   }
 ]

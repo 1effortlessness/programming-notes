@@ -6,8 +6,8 @@ reason: Whether to learn C or not is a classic topic, some people say it's neces
 
 ---- 
 - https://preslav.me/2023/11/27/python-is-easy-golang-is-simple-simple-is-not-easy/
-title: Python is easy, Golang is simple. Simple is not easy
-note: Python or Node.js are powerful languages, but they can be dangerous in a production environment. They are suitable for prototyping stages once an idea has been validated. For building the project, it is advisable to use Go or another statically-compiled language due to their increased reliability and efficiency..
+- title: Python is easy, Golang is simple. Simple is not easy
+- note: Python or Node.js are powerful languages, but they can be dangerous in a production environment. They are suitable for prototyping stages once an idea has been validated. For building the project, it is advisable to use Go or another statically-compiled language due to their increased reliability and efficiency..
 
 
 ---
@@ -26,3 +26,8 @@ Initially, this means they're increasingly busy until eventually, the pressure b
 - url: https://blog.bitipcman.com/bedrock-claude-getting-started/
 - title: Amazon Bedrock 与多模态大语言模型Anthropic Claude 开箱 (上篇)
 - note: how to deploy Claude apis in aws bedrock
+
+---
+- url: https://www.pixelmatters.com/blog/how-to-manage-multiple-front-end-projects-with-a-monorepo
+- title: # How to manage multiple Front-End projects with a monorepo
+- note: a very good article on building a monorepo project step by step

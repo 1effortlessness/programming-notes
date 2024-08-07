@@ -1,16 +1,10 @@
 [
   {
-    "fileName": "Drawing 2024-04-15 11.14.59.excalidraw",
-    "relativePath": "whiteboard/Drawing 2024-04-15 11.14.59.excalidraw.md",
-    "tags": [
-      "excalidraw"
-    ],
-    "frontmatter": {
-      "excalidraw-plugin": "parsed"
-    },
+    "fileName": "programmers at work",
+    "relativePath": "learn from the greater programmers/programmers at work.md",
     "headings": [
       {
-        "heading": "Text Elements",
+        "heading": "Programmers at work",
         "level": 1
       }
     ]
@@ -34,372 +28,22 @@
     ]
   },
   {
-    "fileName": "programmers at work",
-    "relativePath": "learn from the greater programmers/programmers at work.md",
+    "fileName": "gpt-custom-instructions-v4",
+    "relativePath": "gpt instructions/gpt-custom-instructions-v4.md",
     "headings": [
       {
-        "heading": "Programmers at work",
+        "heading": "v4 edition",
         "level": 1
       }
     ]
   },
   {
-    "fileName": "阿里云部署 docker 教程",
-    "relativePath": "knowledge snippets/阿里云部署 docker 教程.md",
+    "fileName": "gpt-custom-instructions-v3",
+    "relativePath": "gpt instructions/gpt-custom-instructions-v3.md",
     "headings": [
       {
-        "heading": "阿里云部署 docker 教程",
+        "heading": "V3 edition",
         "level": 1
-      }
-    ]
-  },
-  {
-    "fileName": "vscode extension performance",
-    "relativePath": "knowledge snippets/vscode extension performance.md"
-  },
-  {
-    "fileName": "what i read when learn rxjs",
-    "relativePath": "knowledge snippets/rxjs/what i read when learn rxjs.md",
-    "headings": [
-      {
-        "heading": "reading list",
-        "level": 1
-      }
-    ]
-  },
-  {
-    "fileName": "overview of rx.js",
-    "relativePath": "knowledge snippets/rxjs/overview of rx.js.md",
-    "headings": [
-      {
-        "heading": "Overview",
-        "level": 1
-      },
-      {
-        "heading": "What it is?",
-        "level": 2
-      },
-      {
-        "heading": "usage scenarios",
-        "level": 2
-      },
-      {
-        "heading": "basic practices",
-        "level": 2
-      },
-      {
-        "heading": "essential concepts",
-        "level": 2
-      }
-    ]
-  },
-  {
-    "fileName": "before start",
-    "relativePath": "knowledge snippets/rxjs/before start.md",
-    "headings": [
-      {
-        "heading": "Before start",
-        "level": 1
-      },
-      {
-        "heading": "background",
-        "level": 2
-      },
-      {
-        "heading": "the goals",
-        "level": 2
-      }
-    ]
-  },
-  {
-    "fileName": "repository vs registry in software",
-    "relativePath": "knowledge snippets/repository vs registry in software.md"
-  },
-  {
-    "fileName": "read source code on github effectively",
-    "relativePath": "knowledge snippets/read source code on github effectively.md",
-    "headings": [
-      {
-        "heading": "perplexity answer record",
-        "level": 1
-      }
-    ]
-  },
-  {
-    "fileName": "pbcopy & createa shortcut command",
-    "relativePath": "knowledge snippets/pbcopy & createa shortcut command.md",
-    "headings": [
-      {
-        "heading": "Record",
-        "level": 1
-      },
-      {
-        "heading": "terminal operation explanation",
-        "level": 2
-      },
-      {
-        "heading": "how to create a shortcut command",
-        "level": 2
-      }
-    ]
-  },
-  {
-    "fileName": "monorepo libraries introduction",
-    "relativePath": "knowledge snippets/monorepo libraries introduction.md",
-    "headings": [
-      {
-        "heading": "introduction",
-        "level": 1
-      }
-    ]
-  },
-  {
-    "fileName": "temporary notes",
-    "relativePath": "knowledge snippets/online-editor/slate.js/temporary notes.md",
-    "headings": [
-      {
-        "heading": "Note",
-        "level": 1
-      }
-    ]
-  },
-  {
-    "fileName": "sources-code-notes-of-slatejs",
-    "relativePath": "knowledge snippets/online-editor/slate.js/sources-code-notes-of-slatejs.md",
-    "headings": [
-      {
-        "heading": "notes",
-        "level": 1
-      },
-      {
-        "heading": "preface",
-        "level": 2
-      },
-      {
-        "heading": "what happen after you press a key?",
-        "level": 2
-      },
-      {
-        "heading": "however, this is just half of the story",
-        "level": 3
-      },
-      {
-        "heading": "withHistory",
-        "level": 2
-      },
-      {
-        "heading": "how to handle Chinese input method and emoji input?",
-        "level": 2
-      }
-    ]
-  },
-  {
-    "fileName": "docs-concepts",
-    "relativePath": "knowledge snippets/online-editor/slate.js/docs-concepts.md",
-    "headings": [
-      {
-        "heading": "Element",
-        "level": 1
-      }
-    ]
-  },
-  {
-    "fileName": "reference framework",
-    "relativePath": "knowledge snippets/online-editor/reference framework.md",
-    "headings": [
-      {
-        "heading": "reference",
-        "level": 1
-      },
-      {
-        "heading": "introduction",
-        "level": 2
-      },
-      {
-        "heading": "list",
-        "level": 2
-      },
-      {
-        "heading": "my objectives",
-        "level": 2
-      },
-      {
-        "heading": "related reading",
-        "level": 2
-      }
-    ]
-  },
-  {
-    "fileName": "editable.js",
-    "relativePath": "knowledge snippets/online-editor/editable.js.md",
-    "headings": [
-      {
-        "heading": "editable.js",
-        "level": 1
-      }
-    ]
-  },
-  {
-    "fileName": "learn DHCP",
-    "relativePath": "knowledge snippets/learn DHCP.md",
-    "headings": [
-      {
-        "heading": "a note about DHCP",
-        "level": 1
-      },
-      {
-        "heading": "why i am curious?",
-        "level": 2
-      },
-      {
-        "heading": "reading notes",
-        "level": 2
-      }
-    ]
-  },
-  {
-    "fileName": "step-by-step guide",
-    "relativePath": "knowledge snippets/mongodb/step-by-step guide.md",
-    "headings": [
-      {
-        "heading": "Guide for beginner",
-        "level": 1
-      },
-      {
-        "heading": "the key concepts of Mongodb",
-        "level": 2
-      },
-      {
-        "heading": "document",
-        "level": 3
-      },
-      {
-        "heading": "collections",
-        "level": 3
-      },
-      {
-        "heading": "replica set",
-        "level": 3
-      },
-      {
-        "heading": "sharding",
-        "level": 3
-      },
-      {
-        "heading": "indexes",
-        "level": 3
-      },
-      {
-        "heading": "aggregation pipeline",
-        "level": 3
-      }
-    ]
-  },
-  {
-    "fileName": "regular operations in mongodb",
-    "relativePath": "knowledge snippets/mongodb/regular operations in mongodb.md"
-  },
-  {
-    "fileName": "mongodb getting start",
-    "relativePath": "knowledge snippets/mongodb/mongodb getting start.md",
-    "headings": [
-      {
-        "heading": "connecting",
-        "level": 2
-      },
-      {
-        "heading": "connecting in Nest.js or node.js",
-        "level": 3
-      },
-      {
-        "heading": "CRUD",
-        "level": 2
-      },
-      {
-        "heading": "creating",
-        "level": 3
-      },
-      {
-        "heading": "Reading",
-        "level": 3
-      },
-      {
-        "heading": "Updating",
-        "level": 3
-      },
-      {
-        "heading": "Deleting",
-        "level": 3
-      },
-      {
-        "heading": "cleanup in nest.js",
-        "level": 2
-      }
-    ]
-  },
-  {
-    "fileName": "Drawing 2024-04-18 23.09.14.excalidraw",
-    "relativePath": "knowledge snippets/mongodb/Drawing 2024-04-18 23.09.14.excalidraw.md",
-    "tags": [
-      "excalidraw"
-    ],
-    "frontmatter": {
-      "excalidraw-plugin": "parsed"
-    },
-    "headings": [
-      {
-        "heading": "Text Elements",
-        "level": 1
-      }
-    ]
-  },
-  {
-    "fileName": "how to test a react project from scratch",
-    "relativePath": "knowledge snippets/how to test a react project from scratch.md",
-    "headings": [
-      {
-        "heading": "How to test a React vite project from scratch",
-        "level": 1
-      },
-      {
-        "heading": "Startup",
-        "level": 2
-      },
-      {
-        "heading": "Component test",
-        "level": 2
-      }
-    ]
-  },
-  {
-    "fileName": "how to kill a process at specific port",
-    "relativePath": "knowledge snippets/how to kill a process at specific port.md",
-    "headings": [
-      {
-        "heading": "Steps node",
-        "level": 1
-      }
-    ]
-  },
-  {
-    "fileName": "delete all branches in local which didn't merge",
-    "relativePath": "knowledge snippets/delete all branches in local which didn't merge.md"
-  },
-  {
-    "fileName": "compress videos through ffmpeg",
-    "relativePath": "knowledge snippets/compress videos through ffmpeg.md"
-  },
-  {
-    "fileName": "copilot domain",
-    "relativePath": "knowledge snippets/VPN/copilot domain.md",
-    "headings": [
-      {
-        "heading": "URLs to Add to Allowlist",
-        "level": 1
-      },
-      {
-        "heading": "Domains and/or URLs",
-        "level": 2
       }
     ]
   },
@@ -438,21 +82,11 @@
     ]
   },
   {
-    "fileName": "gpt-custom-instructions-v4",
-    "relativePath": "gpt instructions/gpt-custom-instructions-v4.md",
+    "fileName": "gpt best practices",
+    "relativePath": "gpt instructions/gpt best practices.md",
     "headings": [
       {
-        "heading": "v4 edition",
-        "level": 1
-      }
-    ]
-  },
-  {
-    "fileName": "gpt-custom-instructions-v3",
-    "relativePath": "gpt instructions/gpt-custom-instructions-v3.md",
-    "headings": [
-      {
-        "heading": "V3 edition",
+        "heading": "the notes from reading the openai documents",
         "level": 1
       }
     ]
@@ -490,14 +124,80 @@
     ]
   },
   {
-    "fileName": "gpt best practices",
-    "relativePath": "gpt instructions/gpt best practices.md",
+    "fileName": "Drawing 2024-06-26 22.08.07.excalidraw",
+    "relativePath": "whiteboard/Drawing 2024-06-26 22.08.07.excalidraw.md",
+    "tags": [
+      "excalidraw"
+    ],
+    "frontmatter": {
+      "excalidraw-plugin": "parsed"
+    },
     "headings": [
       {
-        "heading": "the notes from reading the openai documents",
-        "level": 1
+        "heading": "Drawing",
+        "level": 2
       }
     ]
+  },
+  {
+    "fileName": "Drawing 2024-08-01 13.36.53.excalidraw",
+    "relativePath": "whiteboard/Drawing 2024-08-01 13.36.53.excalidraw.md",
+    "tags": [
+      "excalidraw"
+    ],
+    "frontmatter": {
+      "excalidraw-plugin": "parsed"
+    },
+    "headings": [
+      {
+        "heading": "Drawing",
+        "level": 2
+      }
+    ]
+  },
+  {
+    "fileName": "Drawing 2024-05-17 14.37.43.excalidraw",
+    "relativePath": "whiteboard/Drawing 2024-05-17 14.37.43.excalidraw.md",
+    "tags": [
+      "excalidraw"
+    ],
+    "frontmatter": {
+      "excalidraw-plugin": "parsed"
+    },
+    "headings": [
+      {
+        "heading": "Excalidraw Data",
+        "level": 1
+      },
+      {
+        "heading": "Text Elements",
+        "level": 2
+      }
+    ]
+  },
+  {
+    "fileName": "Drawing 2024-04-15 11.14.59.excalidraw",
+    "relativePath": "whiteboard/Drawing 2024-04-15 11.14.59.excalidraw.md",
+    "tags": [
+      "excalidraw"
+    ],
+    "frontmatter": {
+      "excalidraw-plugin": "parsed"
+    },
+    "headings": [
+      {
+        "heading": "Excalidraw Data",
+        "level": 1
+      },
+      {
+        "heading": "Text Elements",
+        "level": 2
+      }
+    ]
+  },
+  {
+    "fileName": "Scratchpad",
+    "relativePath": "Scratchpad.md"
   },
   {
     "fileName": "KNLG-983",
@@ -512,13 +212,6 @@
       {
         "heading": "Text Elements",
         "level": 1
-      }
-    ],
-    "backlinks": [
-      {
-        "fileName": "2024-4-12",
-        "link": "KNLG-983",
-        "relativePath": "Inbox 📥/2024-4-12.md"
       }
     ]
   },
@@ -543,8 +236,403 @@
     ]
   },
   {
-    "fileName": "Untitled 1",
-    "relativePath": "Untitled 1.md"
+    "fileName": "阿里云部署 docker 教程",
+    "relativePath": "knowledge_bits/阿里云部署 docker 教程.md",
+    "headings": [
+      {
+        "heading": "阿里云部署 docker 教程",
+        "level": 1
+      }
+    ]
+  },
+  {
+    "fileName": "list_all_running_apps",
+    "relativePath": "knowledge_bits/shell/list_all_running_apps.md"
+  },
+  {
+    "fileName": "pipe-symbols",
+    "relativePath": "knowledge_bits/shell/pipe-symbols.md"
+  },
+  {
+    "fileName": "dict",
+    "relativePath": "knowledge_bits/shell/dict.md"
+  },
+  {
+    "fileName": "vscode extension performance",
+    "relativePath": "knowledge_bits/vscode extension performance.md"
+  },
+  {
+    "fileName": "what i read when learn rxjs",
+    "relativePath": "knowledge_bits/rxjs/what i read when learn rxjs.md",
+    "headings": [
+      {
+        "heading": "reading list",
+        "level": 1
+      }
+    ]
+  },
+  {
+    "fileName": "overview of rx.js",
+    "relativePath": "knowledge_bits/rxjs/overview of rx.js.md",
+    "headings": [
+      {
+        "heading": "Overview",
+        "level": 1
+      },
+      {
+        "heading": "What it is?",
+        "level": 2
+      },
+      {
+        "heading": "usage scenarios",
+        "level": 2
+      },
+      {
+        "heading": "basic practices",
+        "level": 2
+      },
+      {
+        "heading": "essential concepts",
+        "level": 2
+      }
+    ]
+  },
+  {
+    "fileName": "before start",
+    "relativePath": "knowledge_bits/rxjs/before start.md",
+    "headings": [
+      {
+        "heading": "Before start",
+        "level": 1
+      },
+      {
+        "heading": "background",
+        "level": 2
+      },
+      {
+        "heading": "the goals",
+        "level": 2
+      }
+    ]
+  },
+  {
+    "fileName": "regular operations in mongodb",
+    "relativePath": "knowledge_bits/mongodb/regular operations in mongodb.md"
+  },
+  {
+    "fileName": "step-by-step guide",
+    "relativePath": "knowledge_bits/mongodb/step-by-step guide.md",
+    "headings": [
+      {
+        "heading": "Guide for beginner",
+        "level": 1
+      },
+      {
+        "heading": "the key concepts of Mongodb",
+        "level": 2
+      },
+      {
+        "heading": "document",
+        "level": 3
+      },
+      {
+        "heading": "collections",
+        "level": 3
+      },
+      {
+        "heading": "replica set",
+        "level": 3
+      },
+      {
+        "heading": "sharding",
+        "level": 3
+      },
+      {
+        "heading": "indexes",
+        "level": 3
+      },
+      {
+        "heading": "aggregation pipeline",
+        "level": 3
+      }
+    ]
+  },
+  {
+    "fileName": "mongodb getting start",
+    "relativePath": "knowledge_bits/mongodb/mongodb getting start.md",
+    "headings": [
+      {
+        "heading": "connecting",
+        "level": 2
+      },
+      {
+        "heading": "connecting in Nest.js or node.js",
+        "level": 3
+      },
+      {
+        "heading": "CRUD",
+        "level": 2
+      },
+      {
+        "heading": "creating",
+        "level": 3
+      },
+      {
+        "heading": "Reading",
+        "level": 3
+      },
+      {
+        "heading": "Updating",
+        "level": 3
+      },
+      {
+        "heading": "Deleting",
+        "level": 3
+      },
+      {
+        "heading": "cleanup in nest.js",
+        "level": 2
+      }
+    ]
+  },
+  {
+    "fileName": "pbcopy & createa shortcut command",
+    "relativePath": "knowledge_bits/pbcopy & createa shortcut command.md",
+    "headings": [
+      {
+        "heading": "Record",
+        "level": 1
+      },
+      {
+        "heading": "terminal operation explanation",
+        "level": 2
+      },
+      {
+        "heading": "how to create a shortcut command",
+        "level": 2
+      }
+    ]
+  },
+  {
+    "fileName": "read source code on github effectively",
+    "relativePath": "knowledge_bits/read source code on github effectively.md",
+    "headings": [
+      {
+        "heading": "perplexity answer record",
+        "level": 1
+      }
+    ]
+  },
+  {
+    "fileName": "repository vs registry in software",
+    "relativePath": "knowledge_bits/repository vs registry in software.md"
+  },
+  {
+    "fileName": "sources-code-notes-of-slatejs",
+    "relativePath": "knowledge_bits/online-editor/slate.js/sources-code-notes-of-slatejs.md",
+    "headings": [
+      {
+        "heading": "notes",
+        "level": 1
+      },
+      {
+        "heading": "preface",
+        "level": 2
+      },
+      {
+        "heading": "what happen after you press a key?",
+        "level": 2
+      },
+      {
+        "heading": "however, this is just half of the story",
+        "level": 3
+      },
+      {
+        "heading": "withHistory",
+        "level": 2
+      },
+      {
+        "heading": "how to handle Chinese input method and emoji input?",
+        "level": 2
+      }
+    ]
+  },
+  {
+    "fileName": "temporary notes",
+    "relativePath": "knowledge_bits/online-editor/slate.js/temporary notes.md",
+    "headings": [
+      {
+        "heading": "Note",
+        "level": 1
+      }
+    ]
+  },
+  {
+    "fileName": "docs-concepts",
+    "relativePath": "knowledge_bits/online-editor/slate.js/docs-concepts.md",
+    "headings": [
+      {
+        "heading": "Element",
+        "level": 1
+      }
+    ]
+  },
+  {
+    "fileName": "editable.js",
+    "relativePath": "knowledge_bits/online-editor/editable.js.md",
+    "headings": [
+      {
+        "heading": "editable.js",
+        "level": 1
+      }
+    ]
+  },
+  {
+    "fileName": "reference framework",
+    "relativePath": "knowledge_bits/online-editor/reference framework.md",
+    "headings": [
+      {
+        "heading": "reference",
+        "level": 1
+      },
+      {
+        "heading": "introduction",
+        "level": 2
+      },
+      {
+        "heading": "list",
+        "level": 2
+      },
+      {
+        "heading": "my objectives",
+        "level": 2
+      },
+      {
+        "heading": "related reading",
+        "level": 2
+      }
+    ]
+  },
+  {
+    "fileName": "learn DHCP",
+    "relativePath": "knowledge_bits/learn DHCP.md",
+    "headings": [
+      {
+        "heading": "a note about DHCP",
+        "level": 1
+      },
+      {
+        "heading": "why i am curious?",
+        "level": 2
+      },
+      {
+        "heading": "reading notes",
+        "level": 2
+      }
+    ]
+  },
+  {
+    "fileName": "monorepo libraries introduction",
+    "relativePath": "knowledge_bits/monorepo libraries introduction.md",
+    "headings": [
+      {
+        "heading": "introduction",
+        "level": 1
+      }
+    ]
+  },
+  {
+    "fileName": "how to test a react project from scratch",
+    "relativePath": "knowledge_bits/how to test a react project from scratch.md",
+    "headings": [
+      {
+        "heading": "How to test a React vite project from scratch",
+        "level": 1
+      },
+      {
+        "heading": "Startup",
+        "level": 2
+      },
+      {
+        "heading": "Component test",
+        "level": 2
+      }
+    ]
+  },
+  {
+    "fileName": "delete all branches in local which didn't merge",
+    "relativePath": "knowledge_bits/delete all branches in local which didn't merge.md"
+  },
+  {
+    "fileName": "how to kill a process at specific port",
+    "relativePath": "knowledge_bits/how to kill a process at specific port.md",
+    "headings": [
+      {
+        "heading": "Steps node",
+        "level": 1
+      }
+    ]
+  },
+  {
+    "fileName": "icloudessyncsissue",
+    "relativePath": "knowledge_bits/icloudessyncsissue.md"
+  },
+  {
+    "fileName": "Docker layer",
+    "relativePath": "knowledge_bits/docker/Docker layer.md",
+    "headings": [
+      {
+        "heading": "**What is a Docker Layer?**",
+        "level": 2
+      },
+      {
+        "heading": "**Benefits of Layers**",
+        "level": 2
+      },
+      {
+        "heading": "Analogy",
+        "level": 2
+      }
+    ]
+  },
+  {
+    "fileName": "copilot domain",
+    "relativePath": "knowledge_bits/VPN/copilot domain.md",
+    "headings": [
+      {
+        "heading": "URLs to Add to Allowlist",
+        "level": 1
+      },
+      {
+        "heading": "Domains and/or URLs",
+        "level": 2
+      }
+    ]
+  },
+  {
+    "fileName": "compress videos through ffmpeg",
+    "relativePath": "knowledge_bits/compress videos through ffmpeg.md"
+  },
+  {
+    "fileName": "Workflow & mind bubble & organization",
+    "relativePath": "knowledge_bits/Workflow & mind bubble & organization.md"
+  },
+  {
+    "fileName": "How to quickly get out of a rut",
+    "relativePath": "Reading notes/How to quickly get out of a rut.md",
+    "tags": [
+      "自我提升"
+    ],
+    "headings": [
+      {
+        "heading": "notes",
+        "level": 2
+      }
+    ]
+  },
+  {
+    "fileName": "3-3-3,  imperfectionism's daily plan",
+    "relativePath": "Reading notes/3-3-3,  imperfectionism's daily plan.md"
   },
   {
     "fileName": "reading list",
@@ -552,22 +640,6 @@
     "headings": [
       {
         "heading": "Reading inbox",
-        "level": 1
-      }
-    ]
-  },
-  {
-    "fileName": "Drawing 2024-04-22 20.30.14.excalidraw",
-    "relativePath": "Reading notes/understanding the digital world/Drawing 2024-04-22 20.30.14.excalidraw.md",
-    "tags": [
-      "excalidraw"
-    ],
-    "frontmatter": {
-      "excalidraw-plugin": "parsed"
-    },
-    "headings": [
-      {
-        "heading": "Text Elements",
         "level": 1
       }
     ]
@@ -635,8 +707,20 @@
     ]
   },
   {
-    "fileName": "Untitled",
-    "relativePath": "Reading notes/Untitled.md"
+    "fileName": "Creating bilingual minds",
+    "relativePath": "Reading notes/Creating bilingual minds.md",
+    "tags": [
+      "language",
+      "english-learning"
+    ]
+  },
+  {
+    "fileName": "How smartphones shrink our brains",
+    "relativePath": "Reading notes/How smartphones shrink our brains.md",
+    "tags": [
+      "拖延症",
+      "自我提升"
+    ]
   },
   {
     "fileName": "README",
@@ -649,146 +733,12 @@
     ]
   },
   {
-    "fileName": "to django",
-    "relativePath": "Inbox 📥/to django.md"
+    "fileName": "2024-08-01",
+    "relativePath": "Inbox/2024-08-01.md"
   },
   {
-    "fileName": "readme",
-    "relativePath": "Inbox 📥/readme.md",
-    "headings": [
-      {
-        "heading": "Introduction",
-        "level": 1
-      }
-    ]
-  },
-  {
-    "fileName": "2024-4-9",
-    "relativePath": "Inbox 📥/2024-4-9.md"
-  },
-  {
-    "fileName": "2024-4-8",
-    "relativePath": "Inbox 📥/2024-4-8.md"
-  },
-  {
-    "fileName": "2024-4-7",
-    "relativePath": "Inbox 📥/2024-4-7.md"
-  },
-  {
-    "fileName": "2024-4-6",
-    "relativePath": "Inbox 📥/2024-4-6.md"
-  },
-  {
-    "fileName": "2024-04-19",
-    "relativePath": "Inbox 📥/2024-04-19.md"
-  },
-  {
-    "fileName": "2024-4-5",
-    "relativePath": "Inbox 📥/2024-4-5.md",
-    "headings": [
-      {
-        "heading": "Apr 5, 2024",
-        "level": 1
-      }
-    ]
-  },
-  {
-    "fileName": "2024-4-12",
-    "relativePath": "Inbox 📥/2024-4-12.md",
-    "headings": [
-      {
-        "heading": "Sullivan writing system - api migration from child-report",
-        "level": 2
-      }
-    ],
-    "links": [
-      {
-        "link": "KNLG-983",
-        "relativePath": "Working notes/KNLG-983.md"
-      }
-    ]
-  },
-  {
-    "fileName": "2024-4-10",
-    "relativePath": "Inbox 📥/2024-4-10.md"
-  },
-  {
-    "fileName": "2024-04-24",
-    "relativePath": "Inbox 📥/2024-04-24.md"
-  },
-  {
-    "fileName": "2024-04-22",
-    "relativePath": "Inbox 📥/2024-04-22.md"
-  },
-  {
-    "fileName": "2024-04-20",
-    "relativePath": "Inbox 📥/2024-04-20.md"
-  },
-  {
-    "fileName": "2024-04-18",
-    "relativePath": "Inbox 📥/2024-04-18.md",
-    "headings": [
-      {
-        "heading": "today's plan",
-        "level": 2
-      },
-      {
-        "heading": "English",
-        "level": 3
-      },
-      {
-        "heading": "programming",
-        "level": 3
-      },
-      {
-        "heading": "others",
-        "level": 2
-      }
-    ]
-  },
-  {
-    "fileName": "2024-04-17",
-    "relativePath": "Inbox 📥/2024-04-17.md",
-    "headings": [
-      {
-        "heading": "youtube video",
-        "level": 2
-      },
-      {
-        "heading": "mongodb",
-        "level": 2
-      }
-    ]
-  },
-  {
-    "fileName": "2024-04-16",
-    "relativePath": "Inbox 📥/2024-04-16.md"
-  },
-  {
-    "fileName": "2024-04-15",
-    "relativePath": "Inbox 📥/2024-04-15.md",
-    "headings": [
-      {
-        "heading": "Redis cache usage",
-        "level": 1
-      },
-      {
-        "heading": "update writing code",
-        "level": 1
-      },
-      {
-        "heading": "ai research module",
-        "level": 2
-      },
-      {
-        "heading": "ai research controller ✅",
-        "level": 3
-      },
-      {
-        "heading": "ai research service ✅",
-        "level": 3
-      }
-    ]
+    "fileName": "Remove repo from npm registry",
+    "relativePath": "Git/Remove repo from npm registry.md"
   },
   {
     "fileName": "programming diagram get started",
@@ -822,6 +772,20 @@
     "headings": [
       {
         "heading": "Layer diagram",
+        "level": 1
+      }
+    ]
+  },
+  {
+    "fileName": "Oversight of the future",
+    "relativePath": "Document writing/Oversight of the future.md",
+    "headings": [
+      {
+        "heading": "English learning",
+        "level": 1
+      },
+      {
+        "heading": "Computer science basic",
         "level": 1
       }
     ]
