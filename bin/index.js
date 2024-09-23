@@ -1,21 +1,28 @@
 #!/usr/bin/env node
 
-const { program } = require("commander");
-const { todayCMD, startWorkCMD, rootCMD } = require("../scripts/index.js");
+import { Command } from 'commander';
+import { todayCMD, startWorkCMD, rootCMD } from '../scripts/index.js';
+
+const program = new Command();
 
 program
-  .command("today")
-  .description("Display today's date")
+  .name('cli-tool')
+  .description('CLI to manage daily tasks and workspace')
+  .version('0.1.0');
+
+program
+  .command('today')
+  .description('Display current date and time')
   .action(todayCMD);
 
 program
-  .command("start-work")
-  .description("Start work for today")
+  .command('start-work')
+  .description('Start work by opening today\'s todo file')
   .action(startWorkCMD);
 
 program
-  .command("root")
-  .description("Change directory to the root of the project")
+  .command('root')
+  .description('Open a new shell in the root directory')
   .action(rootCMD);
 
 program.parse(process.argv);

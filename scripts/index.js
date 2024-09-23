@@ -1,16 +1,20 @@
-const path = require("path");
-const dayjs = require("dayjs");
-const fs = require("fs");
-const { execSync, spawn } = require("child_process");
+import path from "path";
+import dayjs from "dayjs";
+import fs from "fs";
+import { execSync, spawn } from "child_process";
+import { fileURLToPath } from "url";
+
+const __filename = fileURLToPath(import.meta.url);
+const __dirname = path.dirname(__filename);
 
 const rootDir = path.join(__dirname, "..");
 const todosDir = path.join(rootDir, "01_todos");
 
-function todayCMD() {
+export function todayCMD() {
   console.log(new Date().toISOString());
 }
 
-function startWorkCMD() {
+export function startWorkCMD() {
   const today = dayjs().format("YYYY-MM-DD");
 
   // Create the todos directory if it doesn't exist
@@ -33,7 +37,7 @@ function startWorkCMD() {
   }
 }
 
-function rootCMD() {
+export function rootCMD() {
   try {
     const shell = "zsh";
     spawn(shell, [], {
@@ -44,9 +48,3 @@ function rootCMD() {
     console.error(`Failed to open shell in ${rootDir}:`, error);
   }
 }
-
-module.exports = {
-  todayCMD,
-  startWorkCMD,
-  rootCMD,
-};
