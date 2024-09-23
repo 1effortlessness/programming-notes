@@ -1,10 +1,9 @@
 const path = require("path");
 const dayjs = require("dayjs");
 const fs = require("fs");
-const { execSync } = require("child_process");
+const { execSync, spawn } = require("child_process");
 
 const rootDir = __dirname;
-
 const todosDir = path.join(rootDir, "01_todos");
 
 function todayCMD() {
@@ -34,7 +33,20 @@ function startWorkCMD() {
   }
 }
 
+function rootCMD() {
+  try {
+    const shell = "zsh";
+    spawn(shell, [], {
+      cwd: rootDir,
+      stdio: "inherit",
+    });
+  } catch (error) {
+    console.error(`Failed to open shell in ${rootDir}:`, error);
+  }
+}
+
 module.exports = {
   todayCMD,
   startWorkCMD,
+  rootCMD,
 };
