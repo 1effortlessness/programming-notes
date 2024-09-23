@@ -14,7 +14,7 @@ export async function chat(messages) {
       },
       ...messages,
     ],
-    model: "qwen-turbo-latest",
+    model: "qwen-plus-latest",
   });
 
   return completion.choices[0].message.content;
