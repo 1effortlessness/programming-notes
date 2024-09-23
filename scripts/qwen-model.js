@@ -5,8 +5,8 @@ const client = new OpenAI({
   baseURL: process.env.DASHSCOPE_BASE_URL,
 });
 
-export function chat(messages) {
-  return client.chat.completions.create({
+export async function chat(messages) {
+  const completion = await client.chat.completions.create({
     messages: [
       {
         role: "system",
@@ -16,4 +16,6 @@ export function chat(messages) {
     ],
     model: "qwen-turbo-latest",
   });
+
+  return completion.choices[0].message.content;
 }
