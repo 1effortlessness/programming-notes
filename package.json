@@ -1,0 +1,17 @@
+{
+  "name": "programming-notes",
+  "version": "0.1.0",
+  "description": "Take everything about facilitating the productivity of programming, includes: bug fixed tracking, IDE using tricks, code snippets. md format.",
+  "main": "index.js",
+  "bin": {
+    "nb": "bin/index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^12.1.0"
+  }
+}
