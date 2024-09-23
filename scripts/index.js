@@ -3,7 +3,7 @@ const dayjs = require("dayjs");
 const fs = require("fs");
 const { execSync, spawn } = require("child_process");
 
-const rootDir = __dirname;
+const rootDir = path.join(__dirname, "..");
 const todosDir = path.join(rootDir, "01_todos");
 
 function todayCMD() {

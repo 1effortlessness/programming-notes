@@ -1,7 +1,7 @@
 #!/usr/bin/env node
 
 const { program } = require("commander");
-const { todayCMD, startWorkCMD, rootCMD } = require("../index.js");
+const { todayCMD, startWorkCMD, rootCMD } = require("../scripts/index.js");
 
 program
   .command("today")
