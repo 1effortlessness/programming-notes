@@ -1,131 +1,7 @@
 [
   {
-    "fileName": "programmers at work",
-    "relativePath": "learn from the greater programmers/programmers at work.md",
-    "headings": [
-      {
-        "heading": "Programmers at work",
-        "level": 1
-      }
-    ]
-  },
-  {
-    "fileName": "readme",
-    "relativePath": "learn from the greater programmers/readme.md",
-    "headings": [
-      {
-        "heading": "introduction",
-        "level": 1
-      },
-      {
-        "heading": "what is this?",
-        "level": 2
-      },
-      {
-        "heading": "what i take notes?",
-        "level": 2
-      }
-    ]
-  },
-  {
-    "fileName": "gpt-custom-instructions-v4",
-    "relativePath": "gpt instructions/gpt-custom-instructions-v4.md",
-    "headings": [
-      {
-        "heading": "v4 edition",
-        "level": 1
-      }
-    ]
-  },
-  {
-    "fileName": "gpt-custom-instructions-v3",
-    "relativePath": "gpt instructions/gpt-custom-instructions-v3.md",
-    "headings": [
-      {
-        "heading": "V3 edition",
-        "level": 1
-      }
-    ]
-  },
-  {
-    "fileName": "gpt-custom-instructions-v5",
-    "relativePath": "gpt instructions/gpt-custom-instructions-v5.md",
-    "headings": [
-      {
-        "heading": "Character",
-        "level": 1
-      },
-      {
-        "heading": "Skills",
-        "level": 2
-      },
-      {
-        "heading": "Skill 1: Rephrase and expand queries",
-        "level": 3
-      },
-      {
-        "heading": "Skill 2: Simplify complex explanations",
-        "level": 3
-      },
-      {
-        "heading": "Skill 3: Detailed procedure for technical subjects",
-        "level": 3
-      },
-      {
-        "heading": "Skill 4: Handling multiple questions",
-        "level": 3
-      },
-      {
-        "heading": "Constraints",
-        "level": 2
-      }
-    ]
-  },
-  {
-    "fileName": "gpt best practices",
-    "relativePath": "gpt instructions/gpt best practices.md",
-    "headings": [
-      {
-        "heading": "the notes from reading the openai documents",
-        "level": 1
-      }
-    ]
-  },
-  {
-    "fileName": "gpt-custom-instructions-v2",
-    "relativePath": "gpt instructions/gpt-custom-instructions-v2.md",
-    "headings": [
-      {
-        "heading": "v2 edition",
-        "level": 1
-      },
-      {
-        "heading": "Most usage scenario",
-        "level": 2
-      },
-      {
-        "heading": "What I want GPT know?",
-        "level": 2
-      },
-      {
-        "heading": "How would you like ChatGPT to response?",
-        "level": 2
-      }
-    ]
-  },
-  {
-    "fileName": "gpt-custom-instructions-v1",
-    "relativePath": "gpt instructions/gpt-custom-instructions-v1.md",
-    "headings": [
-      {
-        "heading": "v1 edition",
-        "level": 1
-      }
-    ]
-  },
-  {
-    "fileName": "Drawing 2024-06-26 22.08.07.excalidraw",
-    "relativePath": "whiteboard/Drawing 2024-06-26 22.08.07.excalidraw.md",
+    "fileName": "Drawing 2024-08-01 13.36.53.excalidraw",
+    "relativePath": "whiteboard/Drawing 2024-08-01 13.36.53.excalidraw.md",
     "tags": [
       "excalidraw"
     ],
@@ -140,8 +16,8 @@
     ]
   },
   {
-    "fileName": "Drawing 2024-08-01 13.36.53.excalidraw",
-    "relativePath": "whiteboard/Drawing 2024-08-01 13.36.53.excalidraw.md",
+    "fileName": "Drawing 2024-06-26 22.08.07.excalidraw",
+    "relativePath": "whiteboard/Drawing 2024-06-26 22.08.07.excalidraw.md",
     "tags": [
       "excalidraw"
     ],
@@ -196,42 +72,30 @@
     ]
   },
   {
-    "fileName": "Scratchpad",
-    "relativePath": "Scratchpad.md"
-  },
-  {
-    "fileName": "KNLG-983",
-    "relativePath": "Working notes/KNLG-983.md",
-    "tags": [
-      "excalidraw"
-    ],
-    "frontmatter": {
-      "excalidraw-plugin": "parsed"
-    },
+    "fileName": "programmers at work",
+    "relativePath": "learn from the greater programmers/programmers at work.md",
     "headings": [
       {
-        "heading": "Text Elements",
+        "heading": "Programmers at work",
         "level": 1
       }
     ]
   },
   {
-    "fileName": "Drawing 2024-04-24 16.01.04.excalidraw",
-    "relativePath": "Working notes/Drawing 2024-04-24 16.01.04.excalidraw.md",
-    "tags": [
-      "excalidraw"
-    ],
-    "frontmatter": {
-      "excalidraw-plugin": "parsed"
-    },
+    "fileName": "readme",
+    "relativePath": "learn from the greater programmers/readme.md",
     "headings": [
       {
-        "heading": "Text Elements",
+        "heading": "introduction",
         "level": 1
       },
       {
-        "heading": "Embedded files",
-        "level": 1
+        "heading": "what is this?",
+        "level": 2
+      },
+      {
+        "heading": "what i take notes?",
+        "level": 2
       }
     ]
   },
@@ -244,18 +108,6 @@
         "level": 1
       }
     ]
-  },
-  {
-    "fileName": "list_all_running_apps",
-    "relativePath": "knowledge_bits/shell/list_all_running_apps.md"
-  },
-  {
-    "fileName": "pipe-symbols",
-    "relativePath": "knowledge_bits/shell/pipe-symbols.md"
-  },
-  {
-    "fileName": "dict",
-    "relativePath": "knowledge_bits/shell/dict.md"
   },
   {
     "fileName": "vscode extension performance",
@@ -396,6 +248,50 @@
     ]
   },
   {
+    "fileName": "read source code on github effectively",
+    "relativePath": "knowledge_bits/read source code on github effectively.md",
+    "headings": [
+      {
+        "heading": "perplexity answer record",
+        "level": 1
+      }
+    ]
+  },
+  {
+    "fileName": "list_all_running_apps",
+    "relativePath": "knowledge_bits/shell/list_all_running_apps.md"
+  },
+  {
+    "fileName": "pipe-symbols",
+    "relativePath": "knowledge_bits/shell/pipe-symbols.md"
+  },
+  {
+    "fileName": "dict",
+    "relativePath": "knowledge_bits/shell/dict.md"
+  },
+  {
+    "fileName": "repository vs registry in software",
+    "relativePath": "knowledge_bits/repository vs registry in software.md"
+  },
+  {
+    "fileName": "learn DHCP",
+    "relativePath": "knowledge_bits/learn DHCP.md",
+    "headings": [
+      {
+        "heading": "a note about DHCP",
+        "level": 1
+      },
+      {
+        "heading": "why i am curious?",
+        "level": 2
+      },
+      {
+        "heading": "reading notes",
+        "level": 2
+      }
+    ]
+  },
+  {
     "fileName": "pbcopy & createa shortcut command",
     "relativePath": "knowledge_bits/pbcopy & createa shortcut command.md",
     "headings": [
@@ -412,20 +308,6 @@
         "level": 2
       }
     ]
-  },
-  {
-    "fileName": "read source code on github effectively",
-    "relativePath": "knowledge_bits/read source code on github effectively.md",
-    "headings": [
-      {
-        "heading": "perplexity answer record",
-        "level": 1
-      }
-    ]
-  },
-  {
-    "fileName": "repository vs registry in software",
-    "relativePath": "knowledge_bits/repository vs registry in software.md"
   },
   {
     "fileName": "sources-code-notes-of-slatejs",
@@ -514,24 +396,6 @@
     ]
   },
   {
-    "fileName": "learn DHCP",
-    "relativePath": "knowledge_bits/learn DHCP.md",
-    "headings": [
-      {
-        "heading": "a note about DHCP",
-        "level": 1
-      },
-      {
-        "heading": "why i am curious?",
-        "level": 2
-      },
-      {
-        "heading": "reading notes",
-        "level": 2
-      }
-    ]
-  },
-  {
     "fileName": "monorepo libraries introduction",
     "relativePath": "knowledge_bits/monorepo libraries introduction.md",
     "headings": [
@@ -560,10 +424,6 @@
     ]
   },
   {
-    "fileName": "delete all branches in local which didn't merge",
-    "relativePath": "knowledge_bits/delete all branches in local which didn't merge.md"
-  },
-  {
     "fileName": "how to kill a process at specific port",
     "relativePath": "knowledge_bits/how to kill a process at specific port.md",
     "headings": [
@@ -576,6 +436,14 @@
   {
     "fileName": "icloudessyncsissue",
     "relativePath": "knowledge_bits/icloudessyncsissue.md"
+  },
+  {
+    "fileName": "delete all branches in local which didn't merge",
+    "relativePath": "knowledge_bits/delete all branches in local which didn't merge.md"
+  },
+  {
+    "fileName": "compress videos through ffmpeg",
+    "relativePath": "knowledge_bits/compress videos through ffmpeg.md"
   },
   {
     "fileName": "Docker layer",
@@ -610,25 +478,132 @@
     ]
   },
   {
-    "fileName": "compress videos through ffmpeg",
-    "relativePath": "knowledge_bits/compress videos through ffmpeg.md"
-  },
-  {
     "fileName": "Workflow & mind bubble & organization",
     "relativePath": "knowledge_bits/Workflow & mind bubble & organization.md"
   },
   {
-    "fileName": "How to quickly get out of a rut",
-    "relativePath": "Reading notes/How to quickly get out of a rut.md",
-    "tags": [
-      "自我提升"
-    ],
+    "fileName": "gpt-custom-instructions-v5",
+    "relativePath": "gpt instructions/gpt-custom-instructions-v5.md",
     "headings": [
       {
-        "heading": "notes",
+        "heading": "Character",
+        "level": 1
+      },
+      {
+        "heading": "Skills",
+        "level": 2
+      },
+      {
+        "heading": "Skill 1: Rephrase and expand queries",
+        "level": 3
+      },
+      {
+        "heading": "Skill 2: Simplify complex explanations",
+        "level": 3
+      },
+      {
+        "heading": "Skill 3: Detailed procedure for technical subjects",
+        "level": 3
+      },
+      {
+        "heading": "Skill 4: Handling multiple questions",
+        "level": 3
+      },
+      {
+        "heading": "Constraints",
         "level": 2
       }
     ]
+  },
+  {
+    "fileName": "gpt-custom-instructions-v3",
+    "relativePath": "gpt instructions/gpt-custom-instructions-v3.md",
+    "headings": [
+      {
+        "heading": "V3 edition",
+        "level": 1
+      }
+    ]
+  },
+  {
+    "fileName": "gpt best practices",
+    "relativePath": "gpt instructions/gpt best practices.md",
+    "headings": [
+      {
+        "heading": "the notes from reading the openai documents",
+        "level": 1
+      }
+    ]
+  },
+  {
+    "fileName": "gpt-custom-instructions-v4",
+    "relativePath": "gpt instructions/gpt-custom-instructions-v4.md",
+    "headings": [
+      {
+        "heading": "v4 edition",
+        "level": 1
+      }
+    ]
+  },
+  {
+    "fileName": "gpt-custom-instructions-v1",
+    "relativePath": "gpt instructions/gpt-custom-instructions-v1.md",
+    "headings": [
+      {
+        "heading": "v1 edition",
+        "level": 1
+      }
+    ]
+  },
+  {
+    "fileName": "gpt-custom-instructions-v2",
+    "relativePath": "gpt instructions/gpt-custom-instructions-v2.md",
+    "headings": [
+      {
+        "heading": "v2 edition",
+        "level": 1
+      },
+      {
+        "heading": "Most usage scenario",
+        "level": 2
+      },
+      {
+        "heading": "What I want GPT know?",
+        "level": 2
+      },
+      {
+        "heading": "How would you like ChatGPT to response?",
+        "level": 2
+      }
+    ]
+  },
+  {
+    "fileName": "KNLG-983",
+    "relativePath": "Working notes/KNLG-983.md",
+    "tags": [
+      "excalidraw"
+    ],
+    "frontmatter": {
+      "excalidraw-plugin": "parsed"
+    },
+    "headings": [
+      {
+        "heading": "Excalidraw Data",
+        "level": 1
+      },
+      {
+        "heading": "Text Elements",
+        "level": 2
+      }
+    ]
+  },
+  {
+    "fileName": "Scratchpad",
+    "relativePath": "Scratchpad.md"
+  },
+  {
+    "fileName": "productivity_guide",
+    "relativePath": "Reading notes/productivity_guide.md"
   },
   {
     "fileName": "3-3-3,  imperfectionism's daily plan",
@@ -641,6 +616,19 @@
       {
         "heading": "Reading inbox",
         "level": 1
+      }
+    ]
+  },
+  {
+    "fileName": "How to quickly get out of a rut",
+    "relativePath": "Reading notes/How to quickly get out of a rut.md",
+    "tags": [
+      "自我提升"
+    ],
+    "headings": [
+      {
+        "heading": "notes",
+        "level": 2
       }
     ]
   },

@@ -11,8 +11,12 @@
             "id": "774d68799b37baef",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Working notes/Drawing 2024-04-24 16.01.04.excalidraw.md"
+                "file": "README.md"
               }
             }
           }
@@ -144,10 +150,11 @@
   },
   "active": "7716926da39680e6",
   "lastOpenFiles": [
-    "Working notes/KNLG-983.md",
     "Scratchpad.md",
-    "Untitled",
+    "README.md",
     "Inbox/2024-08-01.md",
+    "Working notes/KNLG-983.md",
+    "Untitled",
     "Git/Remove repo from npm registry.md",
     "whiteboard/Drawing 2024-08-01 13.36.53.excalidraw.md",
     "Inbox/2024-05-24.md",
@@ -171,7 +178,6 @@
     "Reading notes/How to quickly get out of a rut.md",
     "Inbox/2024-06-23.md",
     "Document writing/Oversight of the future.md",
-    "Reading notes/understanding the digital world/Drawing 2024-04-22 20.30.14.excalidraw.md",
     "assets/Pasted Image 20240527125420_900.png",
     "knowledge snippets/docker",
     "Inbox",
