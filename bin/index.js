@@ -1,3 +1,9 @@
 #!/usr/bin/env node
+const { startWorkCMD } = require("../index");
+const { program } = require("commander");
 
-require("../index.js");
+program.command("start-work").action(() => {
+  startWorkCMD();
+});
+
+program.parse(process.argv);
